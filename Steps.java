@@ -1,4 +1,4 @@
-/*
+/*Print patterns upto a given Integer n.
 */
 
 import java.util.Scanner;
